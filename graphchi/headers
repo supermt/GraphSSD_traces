@@ -1,0 +1,4 @@
+%6T.%9t,%p,%C,%a,%S,%c,%d,%n,%N
+Timestamp,pid,pname,action,sector_name,CPU_id,RWBS_operation,num_block,num_bytes
+
+blkparse sdb1.blktrace.* -f "%6T.%9t,%p,%C,%a,%S,%c,%d,%n,%N\n" -o output.txt
