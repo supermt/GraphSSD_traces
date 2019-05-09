@@ -6,7 +6,7 @@ This is a [repository](https://github.com/supermt/GraphSSD_traces) for traces ca
 
 ## Graph CHI
 - [X] PageRank
-- [ ] Random Walk
+- [X] Random Walk
 - [ ] `BFS` and `DFS`
 
 ## TinkerPop
